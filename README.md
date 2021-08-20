@@ -6,4 +6,4 @@ This repo contains code accompanying the paper, 	[Understanding and Mitigating A
 OpenFace: <https://github.com/TadasBaltrusaitis/OpenFace>
 
 The code for AUC-FER and its baseline methods is adapted from the CVPR paper:
-[Towards Fairness in Visual Recognition: Effective Strategies for Bias Mitigation](https://arxiv.org/abs/1911.11834v2), [Code] (https://github.com/princetonvisualai/DomainBiasMitigation)
+[Towards Fairness in Visual Recognition: Effective Strategies for Bias Mitigation](https://arxiv.org/abs/1911.11834v2), [Code](https://github.com/princetonvisualai/DomainBiasMitigation)
