@@ -1,6 +1,9 @@
 # AU-Calibrated Facial Expression Recognition (AUC-FER)
 
-This repo contains code accompanying the paper, 	[Understanding and Mitigating Annotation Bias in Facial Expression Recognition (Chen and Joo, ICCV 2021)](https://arxiv.org/abs/2108.08504). It includes code for running the few-shot supervised learning domain experiments, including sinusoid regression, Omniglot classification, and MiniImagenet classification.
+This repo contains code accompanying the paper, 	[Understanding and Mitigating Annotation Bias in Facial Expression Recognition (Chen and Joo, ICCV 2021)](https://arxiv.org/abs/2108.08504). 
+
+## Under Construction
+The repo is still under construction.
 
 ## Acknowledgements
 OpenFace: <https://github.com/TadasBaltrusaitis/OpenFace>
