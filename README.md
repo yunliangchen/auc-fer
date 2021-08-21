@@ -4,7 +4,12 @@ This repo contains code accompanying the paper, 	[Understanding and Mitigating A
 
 ## Dataset Used
 - FairFace: https://github.com/dchen236/FairFace
-- Expression in the Wild: https://mmlab.ie.cuhk.edu.hk/projects/socialrelation/
+- Expression in-the-Wild (ExpW): https://mmlab.ie.cuhk.edu.hk/projects/socialrelation/
+- EmotioNet: https://cbcsl.ece.ohio-state.edu/enc-2020/index.html
+- Real-world Affective Faces Database (RAF-DB): http://www.whdeng.cn/raf/model1.html
+- AffectNet: http://mohammadmahoor.com/affectnet/
+- Karolinska Directed Emotional Faces (KDEF): https://www.kdef.se/
+- Chicago Face Database (CFD): https://www.chicagofaces.org/
 
 ## Acknowledgements
 OpenFace: <https://github.com/TadasBaltrusaitis/OpenFace>
